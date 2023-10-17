@@ -141,6 +141,17 @@ loss_local = loss_local_term
 ## Acknowledgement
 This branch is built based on [BoxInstSeg](https://github.com/LiWentomng/BoxInstSeg) and [MMdetection](https://github.com/open-mmlab/mmdetection).
 
+## Citation
+
+```BibTeX
+@inproceedings{APro,
+  title={Label-efficient Segmentation via Affinity Propagation},
+  author={Wentong Li, Yuqian Yuan, Song Wang, Wenyu Liu, Dongqi Tang, Jian Liu, Jianke Zhu and Lei Zhang},
+  booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
+  year={2023}
+}
+```
+
 
 ## TODO
 - [ ] 🔥Release the branch of weakly-supervised semantic segmentation.
