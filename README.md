@@ -1,5 +1,5 @@
 # Label-efficient Segmentation via Affinity Propagation
-> [Wentong Li*](https://cslwt.github.io/), [Yuqian Yuan*](https://yuqianyuan.github.io/), [Song Wang](https://songw-zju.github.io/), Wenyu Liu, Dongqi Tang, Jian Liu, [Jianke Zhu](https://person.zju.edu.cn/jkzhu), and [Lei Zhang](https://www4.comp.polyu.edu.hk/~cslzhang/)
+> [Wentong Li*](https://cslwt.github.io/), [Yuqian Yuan*](https://yuqianyuan.github.io/), [Song Wang](https://songw-zju.github.io/), [Wenyu Liu](https://scholar.google.com/citations?user=JloV4T0AAAAJ&hl=zh-CN), Dongqi Tang, Jian Liu, [Jianke Zhu](https://person.zju.edu.cn/jkzhu), and [Lei Zhang](https://www4.comp.polyu.edu.hk/~cslzhang/)
 >
 > **[Paper](https://arxiv.org/pdf/2310.10533.pdf) | NeurIPS2023**
 >
